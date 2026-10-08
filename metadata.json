@@ -1,0 +1,6 @@
+{
+  "name": "LifeCare Hospital — AI-Powered Healthcare Platform",
+  "description": "Modern hospital healthcare platform featuring doctor discovery, appointment booking, AI Health Copilot, digital medical records, and real-time health metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
